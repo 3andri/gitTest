@@ -1,5 +1,5 @@
 package com.git.test;
 
-public class yahooBean {
+public class your {
 
 }
